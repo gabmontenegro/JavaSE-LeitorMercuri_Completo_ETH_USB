@@ -1,0 +1,46 @@
+=========================== aeitagdecoder ===========================================
+mvn install:install-file -Dfile=C:\Users\jackson.silva\Documents\mercuryapi\aeitagdecoder.jar -DgroupId=br.com.transire -DartifactId=aeitagdecoder -Dversion=1.0 -Dpackaging=jar
+
+
+<dependency>
+        <groupId>br.com.transire</groupId>
+        <artifactId>aeitagdecoder</artifactId>
+        <version>1.0</version>
+        <scope>compile</scope>
+</dependency>
+
+============================= ltkjava =========================================
+
+mvn install:install-file -Dfile=C:\Users\jackson.silva\Documents\mercuryapi\ltkjava-1.0.0.6.jar -DgroupId=br.com.transire -DartifactId=ltkjava -Dversion=1.0.0.6 -Dpackaging=jar
+
+
+<dependency>
+        <groupId>br.com.transire</groupId>
+        <artifactId>ltkjava</artifactId>
+        <version>1.0.0.6</version>
+        <scope>compile</scope>
+</dependency>
+
+============================== ltkthingmagic ========================================
+
+mvn install:install-file -Dfile=C:\Users\jackson.silva\Documents\mercuryapi\ltkthingmagic.jar -DgroupId=br.com.transire -DartifactId=ltkthingmagic -Dversion=1.0 -Dpackaging=jar
+
+
+<dependency>
+        <groupId>br.com.transire</groupId>
+        <artifactId>ltkthingmagic</artifactId>
+        <version>1.0</version>
+        <scope>compile</scope>
+</dependency>
+
+======================================================================
+
+mvn install:install-file -Dfile=C:\Users\jackson.silva\Documents\mercuryapi\mercuryapi_nb.jar -DgroupId=br.com.transire -DartifactId=mercuryapi-nb -Dversion=1.0 -Dpackaging=jar
+
+
+<dependency>
+        <groupId>br.com.transire</groupId>
+        <artifactId>mercuryapi-nb</artifactId>
+        <version>1.0</version>
+        <scope>compile</scope>
+</dependency>
